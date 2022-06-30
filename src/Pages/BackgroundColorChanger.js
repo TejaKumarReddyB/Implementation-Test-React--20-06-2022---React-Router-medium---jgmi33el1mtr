@@ -9,4 +9,4 @@ export const BackgroundColorChanger = () =>{
       Background Color Changer
     </main>
     );
-}
+};
